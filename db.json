@@ -1,6 +1,11 @@
 {
-    "id":123,
-    "name":"Lotti",
-    "item":"wife"
-    
+    "posts": [
+        {
+          "id": 1,
+          "title": "hello"
+        }
+      ],
+      "profile": {
+        "name": "typicode"
+      }
     }
